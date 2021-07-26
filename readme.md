@@ -5,10 +5,10 @@ this is recommended for the anarchy environment since it clears things usually f
 
 
 # servers that use this plugin:
-----
-pvpanarchy.tk
-1b1t.me
-camianarchy.xyz
-cleananarchy.xyz
-----
+
+- pvpanarchy.tk
+- 1b1t.me
+- camianarchy.xyz
+- cleananarchy.xyz
+
 [info from bStats]
